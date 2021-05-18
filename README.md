@@ -1,6 +1,6 @@
 # marbluino_menus
 
-Using MMA8452 accelerometer "tap detection" feature to simulate keypresses
+Using MMA8452 accelerometer "tap detection" feature to simulate keypresses on [Marblino](https://github.com/jablan/marbluino)
 
 [![Marbluino: navigate menus using tap detection](http://img.youtube.com/vi/RPsT7Pjr09w/0.jpg)](http://www.youtube.com/watch?v=RPsT7Pjr09w "Marbluino: navigate menus using tap detection")
 
